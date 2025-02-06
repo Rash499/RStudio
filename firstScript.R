@@ -3,3 +3,4 @@ hello <- function() {
 }
 
 hello()
+hello()
